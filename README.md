@@ -1,1 +1,1 @@
-# Data-Science-And-Artificial-Intelligence
+# Generative Artificial-Intelligence
